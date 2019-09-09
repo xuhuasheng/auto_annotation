@@ -4,7 +4,7 @@
 # @date：   2019/9
 # @version: v1.0
 # @author： Xu Huasheng
-# @github： https://github.com/xuhuasheng/images_flip
+# @github： https://github.com/xuhuasheng/auto_annotation
 # =========================================================
 
 import cv2
